@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tobi, @Johhnmarshal on SM
-- 🌱 CI/CD.
+- 🌱 DevOps CI/CD.
 - 💞️ I’m looking to collaborate on on projects
 - 📫 👀 https://www.linkedin.com/in/tobiolabode
 <!---
